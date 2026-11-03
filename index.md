@@ -11,7 +11,7 @@ home: true
       <p class="lead">Bump once an hour and your ad is posted in every server using BumpMyServer — with banners, embed colours, DM reminders and stats. All free.</p>
       <div class="cta">
         <a class="btn" href="{{ site.invite_url }}">Add to Discord</a>
-        <a class="btn ghost" href="{{ '/privacy/' | relative_url }}">How we handle data</a>
+        <a class="btn ghost" href="{{ site.support_url }}">Join the support server</a>
       </div>
     </div>
     <img class="mark" src="{{ '/assets/logo.png' | relative_url }}" alt="BumpMyServer logo">

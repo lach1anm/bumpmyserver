@@ -39,7 +39,7 @@ Servers only appear in the public directory if a server manager turns on **websi
 You can download a server's data, delete a server's data, or delete your own data at any time from the dashboard.
 
 ## Retention and deletion
-Data is kept while the bot is in your server. If you remove the bot, your server stops receiving and sending ads. Login sessions expire after 7 days. You can delete your server's data or your own data instantly from the dashboard, or ask us in the support server and we'll remove it within 30 days.
+Data is kept while the bot is in your server. If you remove the bot, your server stops receiving and sending ads. Login sessions expire after 7 days. You can delete your server's data or your own data instantly from the dashboard, or ask us in the [support server](https://discord.gg/KG2BhHXBDp) and we'll remove it within 30 days.
 
 ## Changes
 We may update this policy. The date at the top shows the latest version.

@@ -31,4 +31,4 @@ The bot is provided free and "as is". We don't guarantee uptime, a particular nu
 We may update these terms. If you keep using the bot after an update, you accept the new terms.
 
 ## 7. Contact
-Questions or appeals: join our support server (linked in `/help`).
+Questions or appeals: join our [support server](https://discord.gg/KG2BhHXBDp).
