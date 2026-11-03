@@ -1,3 +1,6 @@
 title: BumpMyServer
-description: The free bump bot for Discord.
-theme: jekyll-theme-minimal
+description: The free bump bot for Discord. Bump every hour and your ad is posted in every server using the bot.
+invite_url: https://discord.com/oauth2/authorize?client_id=1567106957880459305&permissions=19489&scope=bot+applications.commands
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }

@@ -3,9 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# BumpMyServer Privacy Policy
 
-_Last updated: November 2026_
 
 This policy explains what data BumpMyServer ("the bot") stores and why.
 

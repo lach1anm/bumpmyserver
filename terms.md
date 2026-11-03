@@ -3,9 +3,7 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# BumpMyServer Terms of Service
 
-_Last updated: November 2026_
 
 By adding BumpMyServer ("the bot") to a Discord server or using its commands, you agree to these terms.
 
