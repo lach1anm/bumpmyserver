@@ -8,7 +8,7 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; font-family: var(--font); color: var(--ink); background: var(--bg); line-height: 1.65; -webkit-font-smoothing: antialiased; }
-a { color: #e23a5c; text-decoration: none; }
+a { color: #1d5bff; text-decoration: none; }
 a:hover { text-decoration: underline; }
 img { display: block; max-width: 100%; }
 .wrap { width: min(1040px, 100% - 40px); margin-inline: auto; }
